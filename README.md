@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**FRex/FRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+User 2415079, according to [GitHub API](https://api.github.com/users/FRex),
+4 letter username and sub 3 million ID on a 100+ million site, not too bad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in a few things: gamedev, retro video games, emulators, C, C++,
+Lua, Python, optimization, low-level stuff, and creating various small
+utilities for my own use (see [frex.github.io/](https://frex.github.io/)).
+
+---
+
+Feel free to email me or open an issue on my repos if anything of mine is
+useful or interesting to you or if you find a bug or missing feature.
